@@ -2,6 +2,6 @@ packages:
   - package: fivetran/fivetran_log
     version: 0.2.0
   - package: fivetran/salesforce
-    version: 0.1.0
+    version: 0.2.0
   - package: fivetran/netsuite
-    version: 0.1.1
+    version: 0.2.0
