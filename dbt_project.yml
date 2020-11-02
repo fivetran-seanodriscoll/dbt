@@ -36,7 +36,3 @@ models:
       # Applies to all files under models/example/
       example:
           materialized: view
-- name: netsuite
-    
-    #database: "{{var ('netsuite_database', target.database)}}"
-    schema: "{{var ('netsuite_suiteanalytics_demo', 'netsuite')}}"
