@@ -3,5 +3,7 @@ packages:
     version: 0.2.0
   - package: fivetran/salesforce
     version: 0.2.0
+  - package: fivetran/salesforce_source
+    version: 0.1.0
   - package: fivetran/netsuite
     version: 0.2.0
