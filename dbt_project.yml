@@ -227,5 +227,4 @@ models:
               - unique
               - not_null
               
- vars:
-    salesforce_database: your_schema_name
+
