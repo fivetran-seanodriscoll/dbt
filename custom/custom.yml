@@ -1,0 +1,11 @@
+version: 1
+
+sources:
+  - name: salesforce
+    tables:
+      - name: account
+      - name: leads
+
+  - name: fivetran_log
+    tables:
+      - name: log
