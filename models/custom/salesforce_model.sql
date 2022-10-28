@@ -1,1 +1,1 @@
-select * from {{ ref(‘salesforce’) }}
+select * from {{ ref('salesforce_source') }}
