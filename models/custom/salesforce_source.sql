@@ -1,1 +1,1 @@
-select * from {{ source(‘salesforce’,’account’) }};
+select * from {{ source('salesforce','account') }};
